@@ -4,7 +4,7 @@ A web-based user interface for viewing and exploring BoltDB databases（eg. cont
 
 ## Screenshot
 
-![BoltDB UI Interface](https://github.com/hysyeah/boltdbui/screenshot.png)
+![BoltDB UI Interface](https://github.com/hysyeah/boltdbui/blob/main/screenshot.png)
 
 *The web interface showing the containerd metadata viewer with bucket hierarchy, statistics, and key-value exploration capabilities.*
 
